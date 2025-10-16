@@ -1,0 +1,4 @@
+U001,Varun,3000
+U002,Meena,5000
+U003,Ravi,2000
+U004,Sneha,1000
